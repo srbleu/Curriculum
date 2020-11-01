@@ -1,9 +1,7 @@
 # ¿Quien soy yo?
-**Nombre y apellidos** : Pedro José Navas Pérez
-
-**Fecha de nacimiento**: 29 de agosto del 2000
-
-**Mail de contacto**: pedrojnaper@gmail.com
+**Nombre y apellidos** : Pedro José Navas Pérez <br>
+**Fecha de nacimiento**: 29 de agosto del 2000 <br>
+**Mail de contacto**: pedrojnaper@gmail.com <br>
 
 # Presencia en la red
 
