@@ -58,7 +58,7 @@ Entusiasta de la ciberseguridad, jugador activo de CTFs miembro fundador del equ
 + Administración de equipos informáticos y ofimática en la nube [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/Andaluc%C3%ADa%20Es%20Digital/Administraci%C3%B3n_de_equipos_informaticos_y_ofimatica_en_la_nube.pdf)
 + Iniciación a la programación web: PHP [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/Andaluc%C3%ADa%20Es%20Digital/Iniciaci%C3%B3n%20a%20la%20programaci%C3%B3n%20web%20PHP.pdf)
 + Iniciación al diseño y a la programación web [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/Andaluc%C3%ADa%20Es%20Digital/Iniciaci%C3%B3n_al_dise%C3%B1o_y_la_programaci%C3%B3n_web.pdf)
-+ Iniciación a Business Intelligence y Big data [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/Andalucía Es Digital/Iniciación_a_Business_Intelligence_y_Big_data.pdf)
++ Iniciación a Business Intelligence y Big data [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/Andaluc%C3%ADa%20Es%20Digital/Iniciación_a_Business_Intelligence_y_Big_data.pdf)
 + Retoque fotografico con GIMP [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/Andaluc%C3%ADa%20Es%20Digital/Retoque_fotografico_con_GIMP.pdf)
 + Detecta y lucha contra las fake news desde el valor social [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/Andaluc%C3%ADa%20Es%20Digital/Detecta%20y%20lucha%20contra%20las%20fake%20news%20desde%20el%20valor%20social.pdf)
 ## Udemy
