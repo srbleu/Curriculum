@@ -71,6 +71,8 @@ Entusiasta de la ciberseguridad, jugador activo de CTFs miembro fundador del equ
 + Complete Python 3 Course: Beginner to Advanced! [Certificado](ude.my/UC-c4365f38-1967-490f-b581-c25de4d276aa)
 + Complete Python Course: Zero to Hero [Certificado](ude.my/UC-bd77d23b-2a0a-41b1-a74f-8fa143874c60)
 + Introducción a Servidores Linux con Debian [Certificado](ude.my/UC-609daf52-4fa8-4604-892c-a750cab84d23)
+## Trinity Collegue
++ B1 [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/TrinityCollege/ISE%20I%20-%20PJNP.pdf)
 ## Otros Emisores
 + Fundamentos de la Ciberseguridad:Un enfoque práctico [Certificado](https://courses.edx.org/certificates/6c8025a36cc948d88ee46406f590c657) [Badge](https://api.badgr.io/public/assertions/eo266CnhQzWn7SIE3QeJbw?identity__email=pedro.navaspe%40alum.uca.es)
 + Throwback (Attacking Windows Active Directory) [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/THM/THM-WR6AAZDPAU.png)
