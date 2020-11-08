@@ -39,6 +39,10 @@ Entusiasta de la ciberseguridad, jugador activo de CTFs miembro fundador del equ
 + NSE 2 [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/Fortinet/NSE_2_Certificate.pdf)
 + Information Security Awareness [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/Fortinet/Information_Security_Awareness.pdf)
 + The evolution of cybersecurity [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/Fortinet/The_Evolution_of_Cybersecurity.pdf)
+## HTB 
++ Academy: Intro to Academy [Certificado](https://academy.hackthebox.eu/achievement/150/15)
++ Academy: Learning Process [Certificado](https://academy.hackthebox.eu/achievement/150/9)
+
 ## Pluralsight
 + Ethical Hacking: Understanding Ethical Hacking [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/PluralSight/EthicaHackingUnderstanding.pdf)
 + Ethical Hacking: Reconnaissance/Footprinting [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/PluralSight/EthicalHacking%20ReconnaissanceFootprinting.pdf)
