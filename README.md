@@ -13,7 +13,7 @@
 
 # Sobre mi
 
-Entusiasta de la ciberseguridad, jugador activo de CTFs miembro fundador del equipo Colors CTF (actual top 5 de España). Dentro de mi equipo soy el especialista en Pentesting, analisís forense y OSINT.
+Estudiante de Ingenieriía Informatica. Entusiasta de la ciberseguridad, jugador activo de CTFs miembro fundador del equipo Colors CTF (actual top 5 de España). Dentro de mi equipo soy el encardo de  Pentesting, analisís forense y OSINT.
 
 # Formación
 ## Pentester Academy
