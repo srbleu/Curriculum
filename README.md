@@ -1,7 +1,7 @@
 # ¿Quien soy yo?
 **Nombre y apellidos** : Pedro José Navas Pérez <br>
 **Fecha de nacimiento**: 29 de agosto del 2000 <br>
-**Mail de contacto**: pedrojnaper@gmail.com <br>
+**Mail de contacto**: pedro.navaspe@alum.uca.es <br>
 
 # Presencia en la red
 
@@ -13,7 +13,7 @@
 
 # Sobre mi
 
-Estudiante de Ingenieriía Informatica. Entusiasta de la ciberseguridad, jugador activo de CTFs miembro fundador del equipo Colors CTF (actual top 5 de España). Dentro de mi equipo soy el encardo de  Pentesting, analisís forense y OSINT.
+Estudiante de Ingenieriía Informatica. Entusiasta de la ciberseguridad, jugador activo de CTFs miembro fundador del equipo Colors CTF (actual top 6 de España en CTF time). Dentro de mi equipo soy el encargado de  Pentesting, analisís forense y OSINT.
 
 # Formación
 ## Pentester Academy
@@ -65,6 +65,8 @@ Estudiante de Ingenieriía Informatica. Entusiasta de la ciberseguridad, jugador
 + Iniciación a Business Intelligence y Big data [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/Andaluc%C3%ADa%20Es%20Digital/Iniciación_a_Business_Intelligence_y_Big_data.pdf)
 + Retoque fotografico con GIMP [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/Andaluc%C3%ADa%20Es%20Digital/Retoque_fotografico_con_GIMP.pdf)
 + Detecta y lucha contra las fake news desde el valor social [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/Andaluc%C3%ADa%20Es%20Digital/Detecta%20y%20lucha%20contra%20las%20fake%20news%20desde%20el%20valor%20social.pdf)
++ Explotación de infraestructuras públicas para el despliegue de redes [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/Andaluc%C3%ADa%20Es%20Digital/Explotaci%C3%B3m_de_Infraestructura_Publica_para_el_despliegue_de_redes_de_comunicaci%C3%B3n.pdf)
+
 ## Udemy
 + Ciberseguridad en linea [Certificado](ude.my/UC-IDHNDR9G)
 + Bash - Intérprete de Comandos de Linux. Aprende desde cero [Certificado](ude.my/UC-8RG3083W)
@@ -83,5 +85,8 @@ Estudiante de Ingenieriía Informatica. Entusiasta de la ciberseguridad, jugador
 + Hacktober Participant [Badge](https://api.badgr.io/public/assertions/ZjVvCgnzRpOxfYBEvrJdYA?identity__email=pedro.navaspe%40alum.uca.es)
 + DEADFACE [Badge](https://api.badgr.io/public/assertions/RUMAOD9ISOCuWrKarob-Cg?identity__email=pedro.navaspe%40alum.uca.es)
 + Experto en actuación ante perdida de datos [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/RecuperaData/CertificadoRecuperaData_PedroJoseNavasPerez.jpg)
-+ Backtrack Academy: Introducción a la seguridad [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/Backtrack/Introduccion_a_la_seguridad.pdf)
++ Backtrack Academy: Introducción a la seguridad [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/Backtrack/Introduccion_a_la_seguridad.pdf)+
++ SAP [Badge](https://www.youracclaim.com/badges/d6f50902-6b99-49fd-8f27-7ffd738d3836/public_url) [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/SAS/EBFRSUS_Certificate%20of%20Completion.pdf)
 
+# Meritos
++ Semifinalista de la National Cyberleague 2020
