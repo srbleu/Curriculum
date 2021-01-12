@@ -25,6 +25,7 @@ Estudiante de Ingenieriía Informatica. Entusiasta de la ciberseguridad, jugador
 + WebApps CVE Intermediate [Badge](https://www.credential.net/7aeacc01-4793-4ea4-a82e-9b734b409305)
 + Recon Basics [Badge](https://www.credential.net/066199a9-7529-4a5c-aeaa-1424b14daaa7)
 + Network Scanning Basics [Badge](https://www.credential.net/d7a0dcd4-efc0-44c8-8205-24b91bedce14)
++ Wifi Security Basics [Badge](https://www.credential.net/f7cf3545-35fe-4d0b-90e4-8caf529ed552#gs.qeupr4)
 ## Cisco
 + Cisco Cybersecurity Essentials [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/Cisco/Cybersecurity%20Es-certificate.pdf)
 + Cisco Introduction to IoT  [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/Cisco/Introduction%20to%20IOT.pdf)
