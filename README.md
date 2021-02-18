@@ -87,7 +87,7 @@ Estudiante de Ingenieriía Informatica. Entusiasta de la ciberseguridad, jugador
 + DEADFACE [Badge](https://api.badgr.io/public/assertions/RUMAOD9ISOCuWrKarob-Cg?identity__email=pedro.navaspe%40alum.uca.es)
 + Experto en actuación ante perdida de datos [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/RecuperaData/CertificadoRecuperaData_PedroJoseNavasPerez.jpg)
 + Backtrack Academy: Introducción a la seguridad [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/Backtrack/Introduccion_a_la_seguridad.pdf)+
-+ SAP [Badge](https://www.youracclaim.com/badges/d6f50902-6b99-49fd-8f27-7ffd738d3836/public_url) [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/SAS/EBFRSUS_Certificate%20of%20Completion.pdf)
++ Fraud Detection Using Descriptive, Predictive, and Social Network Analytics [Badge](https://www.youracclaim.com/badges/d6f50902-6b99-49fd-8f27-7ffd738d3836/public_url) [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/SAS/EBFRSUS_Certificate%20of%20Completion.pdf)
 
 # Meritos
 + Semifinalista de la National Cyberleague 2020
