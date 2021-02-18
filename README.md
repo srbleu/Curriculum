@@ -13,7 +13,7 @@
 
 # Sobre mi
 
-Estudiante de Ingenieriía Informatica. Entusiasta de la ciberseguridad, jugador activo de CTFs miembro fundador del equipo Colors CTF (actual top 6 de España en CTF time). Dentro de mi equipo soy el encargado de  Pentesting, analisís forense y OSINT.
+Estudiante de Ingenieriía Informatica. Entusiasta de la ciberseguridad, jugador activo de CTFs miembro fundador del equipo Colors CTF (top 6 de España,CTF time 2020)y del. Dentro de mi equipo soy el encargado de  Pentesting, analisís forense y OSINT.
 
 # Formación
 ## Pentester Academy
