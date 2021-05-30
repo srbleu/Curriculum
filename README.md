@@ -25,7 +25,12 @@ Estudiante de Ingenieriía Informatica. Entusiasta de la ciberseguridad, jugador
 + WebApps CVE Intermediate [Badge](https://www.credential.net/7aeacc01-4793-4ea4-a82e-9b734b409305)
 + Recon Basics [Badge](https://www.credential.net/066199a9-7529-4a5c-aeaa-1424b14daaa7)
 + Network Scanning Basics [Badge](https://www.credential.net/d7a0dcd4-efc0-44c8-8205-24b91bedce14)
-+ Wifi Security Basics [Badge](https://www.credential.net/f7cf3545-35fe-4d0b-90e4-8caf529ed552#gs.qeupr4)
++ Wifi Security Basics [Badge](https://www.credential.net/f7cf3545-35fe-4d0b-90e4-8caf529ed552)
++ Firmware Analysis [Badge](https://www.credential.net/8beaca40-396f-4a87-ad13-b0d5c7deeba7)
++ Single Page Applications (OWASP TOP 10 basics) [Badge](https://www.credential.net/60c19bb9-9f7e-40ad-bf2a-8692d64283fb)
++ Tshark Basics [Badge](https://www.credential.net/bdc0fc43-3745-4bdc-a32e-1db4c9b0cc9d)
++ Mitre ATTACK linux [Badge](https://www.credential.net/0d93ef6e-6c9b-46a3-9982-fb689eed6634)
+
 ## Cisco
 + Cisco Cybersecurity Essentials [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/Cisco/Cybersecurity%20Es-certificate.pdf)
 + Cisco Introduction to IoT  [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/Cisco/Introduction%20to%20IOT.pdf)
@@ -40,6 +45,7 @@ Estudiante de Ingenieriía Informatica. Entusiasta de la ciberseguridad, jugador
 + NSE 2 [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/Fortinet/NSE_2_Certificate.pdf)
 + Information Security Awareness [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/Fortinet/Information_Security_Awareness.pdf)
 + The evolution of cybersecurity [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/Fortinet/The_Evolution_of_Cybersecurity.pdf)
+
 ## HTB 
 + Academy: Intro to Academy [Certificado](https://academy.hackthebox.eu/achievement/150/15)
 + Academy: Learning Process [Certificado](https://academy.hackthebox.eu/achievement/150/9)
@@ -58,6 +64,7 @@ Estudiante de Ingenieriía Informatica. Entusiasta de la ciberseguridad, jugador
 + Networking Concepts and Protocols [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/PluralSight/NetworkingConcepts%26Protocols.pdf)
 + Python: The Big Picture [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/PluralSight/PythonTheBigPicture-pdf)
 + Core Python: Getting Started [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/PluralSight/CorePythonGettingStarted.pdf)
+
 ## Andalucía es Digital 
 + Seguridad informática [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/Andaluc%C3%ADa%20Es%20Digital/Seguridad_informatica.pdf)
 + Administración de equipos informáticos y ofimática en la nube [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/Andaluc%C3%ADa%20Es%20Digital/Administraci%C3%B3n_de_equipos_informaticos_y_ofimatica_en_la_nube.pdf)
@@ -78,8 +85,10 @@ Estudiante de Ingenieriía Informatica. Entusiasta de la ciberseguridad, jugador
 + Complete Python 3 Course: Beginner to Advanced! [Certificado](ude.my/UC-c4365f38-1967-490f-b581-c25de4d276aa)
 + Complete Python Course: Zero to Hero [Certificado](ude.my/UC-bd77d23b-2a0a-41b1-a74f-8fa143874c60)
 + Introducción a Servidores Linux con Debian [Certificado](ude.my/UC-609daf52-4fa8-4604-892c-a750cab84d23)
+
 ## Trinity Collegue
 + B1 [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/TrinityCollege/ISE%20I%20-%20PJNP.pdf)
+
 ## Otros Emisores
 + Fundamentos de la Ciberseguridad:Un enfoque práctico [Certificado](https://courses.edx.org/certificates/6c8025a36cc948d88ee46406f590c657) [Badge](https://api.badgr.io/public/assertions/eo266CnhQzWn7SIE3QeJbw?identity__email=pedro.navaspe%40alum.uca.es)
 + Throwback (Attacking Windows Active Directory) [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/THM/THM-WR6AAZDPAU.png)
