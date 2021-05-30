@@ -13,7 +13,7 @@
 
 # Sobre mi
 
-Estudiante de Ingenieriía Informatica. Entusiasta de la ciberseguridad, jugador activo de CTFs miembro fundador del equipo Colors CTF (top 6 de España,CTF time 2020)y del equipo de CTF Flaggermeister. Dentro de mi equipo soy el encargado de  Pentesting, analisís forense y OSINT.
+Estudiante de Ingeniería Informatica. Entusiasta de la ciberseguridad, jugador activo de CTFs miembro fundador del equipo Colors CTF (top 6 de España,CTF time 2020)y del equipo de CTF Flaggermeister. Dentro de mi equipo soy el encargado de  Pentesting, analisís forense y OSINT.
 
 # Formación
 ## Pentester Academy
@@ -40,6 +40,7 @@ Estudiante de Ingenieriía Informatica. Entusiasta de la ciberseguridad, jugador
 + Cisco Linux Unhatched [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/Cisco/Linux%20Unhatched.pdf)
 + Cisco NDG Linux 1 [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/Cisco/NDG%20Linux%20I.pdf)
 + Cisco NDG Linux 2 [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/Cisco/NDG%20Linux%20II.pdf)
+
 ## Fortinet
 + NSE 1 [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/Fortinet/NSE_1_Certificate.pdf)
 + NSE 2 [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/Fortinet/NSE_2_Certificate.pdf)
@@ -49,7 +50,17 @@ Estudiante de Ingenieriía Informatica. Entusiasta de la ciberseguridad, jugador
 ## HTB 
 + Academy: Intro to Academy [Certificado](https://academy.hackthebox.eu/achievement/150/15)
 + Academy: Learning Process [Certificado](https://academy.hackthebox.eu/achievement/150/9)
++ Dante [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/HTB/Dante-certificate.pdf)
 
+## Tryhackme
++ Throwback (Attacking Windows Active Directory) [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/THM/THM-WR6AAZDPAU.png)
+
+## Div0
++ Div0 Carnival 1: Pentesting Badge [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/CTFs/Div0Pentesting.pdf) [Badge](https://www.credential.net/e44d1a4a-f3bf-4ab5-9fcd-22d215c366d2)
+
+## Rangeforce
++ Blue Team Start Challenge [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/CTFs/Blue_Team_Star_Challenge_Badge.pdf) [Badge](https://www.credly.com/badges/7a41f799-a03a-43b7-87cf-7c16ed5feac1)
++ Community SOC Challenge [Badge](https://www.credly.com/earner/earned/badge/aadb91d9-8d08-456a-9673-006b3a7b67ca)
 ## Pluralsight
 + Ethical Hacking: Understanding Ethical Hacking [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/PluralSight/EthicaHackingUnderstanding.pdf)
 + Ethical Hacking: Reconnaissance/Footprinting [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/PluralSight/EthicalHacking%20ReconnaissanceFootprinting.pdf)
@@ -89,14 +100,21 @@ Estudiante de Ingenieriía Informatica. Entusiasta de la ciberseguridad, jugador
 ## Trinity Collegue
 + B1 [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/TrinityCollege/ISE%20I%20-%20PJNP.pdf)
 
-## Otros Emisores
+## EDX
 + Fundamentos de la Ciberseguridad:Un enfoque práctico [Certificado](https://courses.edx.org/certificates/6c8025a36cc948d88ee46406f590c657) [Badge](https://api.badgr.io/public/assertions/eo266CnhQzWn7SIE3QeJbw?identity__email=pedro.navaspe%40alum.uca.es)
-+ Throwback (Attacking Windows Active Directory) [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/THM/THM-WR6AAZDPAU.png)
+
+## Participación en CTFs o conferencias
 + Hacktober Participant [Badge](https://api.badgr.io/public/assertions/ZjVvCgnzRpOxfYBEvrJdYA?identity__email=pedro.navaspe%40alum.uca.es)
 + DEADFACE [Badge](https://api.badgr.io/public/assertions/RUMAOD9ISOCuWrKarob-Cg?identity__email=pedro.navaspe%40alum.uca.es)
++ Certificado de participación como asistente a Intelcon2020 [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/Ginseng/4800535217PJ.pdf)
++ Certificado participación Trollcat CTF [Certificado](https://raw.githubusercontent.com/srbleu/Curriculum/main/Certificados/CTFs/TrollCAT_CTF.png)
++ Certificado participación IV jornada ciberseguridad UPSA [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/CTFs/JornadasUPSACTF.pdf)
+
+## Otros emisores
 + Experto en actuación ante perdida de datos [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/RecuperaData/CertificadoRecuperaData_PedroJoseNavasPerez.jpg)
 + Backtrack Academy: Introducción a la seguridad [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/Backtrack/Introduccion_a_la_seguridad.pdf)+
 + Fraud Detection Using Descriptive, Predictive, and Social Network Analytics [Badge](https://www.youracclaim.com/badges/d6f50902-6b99-49fd-8f27-7ffd738d3836/public_url) [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/SAS/EBFRSUS_Certificate%20of%20Completion.pdf)
++ Certificado de participación Modelado y generación automática de software de dispositivos de ciudades y fábricas inteligentes. [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/UAL/Certificado-INFUAL-2020-Pedro%20Jose%C2%BF%20Navas%20Pe%C2%BFrez.report.pdf)
 
 # Meritos
 + Semifinalista de la National Cyberleague 2020
