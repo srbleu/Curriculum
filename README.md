@@ -13,9 +13,16 @@
 
 # Sobre mi
 
-Estudiante de Ingeniería Informatica. Entusiasta de la ciberseguridad, jugador activo de CTFs miembro fundador del equipo Colors CTF (top 6 de España,CTF time 2020)y del equipo de CTF Flaggermeister. Dentro de mi equipo soy el encargado de  Pentesting, analisís forense y OSINT.
+Auditor Junior en Hispasec, Estudiante de Ingeniería Informatica y organizador de UCA Cybersecurity Day. Entusiasta de la ciberseguridad, jugador activo de CTFs miembro fundador del equipo Colors CTF (top 6 de España,CTF time 2020)y del equipo de CTF Flaggermeister. Dentro de mi equipo soy el encargado de  Pentesting, analisís forense y OSINT.
 
 # Formación
+## eLearnSecurity
++ eJPT [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/eLearnSecurity/Your_ejpt_certificate.pdf)
+
+## Pentester Lab
++ Introduction [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/PentersterLab/IntroductionBadge.pdf)
+
+
 ## Pentester Academy
 + Memory Forensics Basics [Badge](https://www.credential.net/82b2193d-0b57-44fd-ad27-5e414f5ec7cf)
 + Password Cracking Basics [Badge](https://www.credential.net/b1598bf3-6fce-42fe-8cad-e2ee62297330)
