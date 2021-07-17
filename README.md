@@ -22,7 +22,8 @@ Auditor Junior en Hispasec, Estudiante de Ingeniería Informatica y organizador 
 ## Pentester Lab
 + Introduction Badge[Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/PentersterLab/IntroductionBadge.pdf)
 + Unix Badge [Certificado](https://raw.githubusercontent.com/srbleu/Curriculum/main/Certificados/PentersterLab/PTLU8250.pdf)
-+ 
++ Recon Badge [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/PentersterLab/PTLR0351.pdf)
++ Android badge [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/PentersterLab/PTLA0702.pdf)
 
 ## Pentester Academy
 + Memory Forensics Basics [Badge](https://www.credential.net/82b2193d-0b57-44fd-ad27-5e414f5ec7cf)
