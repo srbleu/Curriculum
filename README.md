@@ -71,12 +71,14 @@ Enero de 2021 - Actualidad: Auditor Junior en Hispasec
 ## Tryhackme
 + Throwback (Attacking Windows Active Directory) [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/THM/THM-WR6AAZDPAU.png)
 + Pre Security Learning Path [Certficado](https://github.com/srbleu/Curriculum/blob/main/Certificados/THM/THM-FYZOZ9PO61.png)
+
 ## Div0
 + Div0 Carnival 1: Pentesting Badge [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/CTFs/Div0Pentesting.pdf) [Badge](https://www.credential.net/e44d1a4a-f3bf-4ab5-9fcd-22d215c366d2)
 
 ## Rangeforce
 + Blue Team Start Challenge [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/CTFs/Blue_Team_Star_Challenge_Badge.pdf) [Badge](https://www.credly.com/badges/7a41f799-a03a-43b7-87cf-7c16ed5feac1)
 + Community SOC Challenge [Badge](https://www.credly.com/earner/earned/badge/aadb91d9-8d08-456a-9673-006b3a7b67ca)
+
 ## Pluralsight
 + Ethical Hacking: Understanding Ethical Hacking [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/PluralSight/EthicaHackingUnderstanding.pdf)
 + Ethical Hacking: Reconnaissance/Footprinting [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/PluralSight/EthicalHacking%20ReconnaissanceFootprinting.pdf)
@@ -121,7 +123,6 @@ Enero de 2021 - Actualidad: Auditor Junior en Hispasec
 
 ## C1b3rWall Academy
 + Modulo 0 [Certificado]()
-+ 
 
 ## Participación en CTFs o conferencias
 + Hacktober Participant [Badge](https://api.badgr.io/public/assertions/ZjVvCgnzRpOxfYBEvrJdYA?identity__email=pedro.navaspe%40alum.uca.es)
