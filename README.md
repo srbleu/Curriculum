@@ -128,9 +128,10 @@ Enero de 2021 - Actualidad: Auditor Junior en Hispasec
 
 ## Otros emisores
 + Experto en actuación ante perdida de datos [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/RecuperaData/CertificadoRecuperaData_PedroJoseNavasPerez.jpg)
-+ Backtrack Academy: Introducción a la seguridad [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/Backtrack/Introduccion_a_la_seguridad.pdf)+
++ Backtrack Academy: Introducción a la seguridad [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/Backtrack/Introduccion_a_la_seguridad.pdf)
 + Fraud Detection Using Descriptive, Predictive, and Social Network Analytics [Badge](https://www.youracclaim.com/badges/d6f50902-6b99-49fd-8f27-7ffd738d3836/public_url) [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/SAS/EBFRSUS_Certificate%20of%20Completion.pdf)
 + Certificado de participación Modelado y generación automática de software de dispositivos de ciudades y fábricas inteligentes. [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/UAL/Certificado-INFUAL-2020-Pedro%20Jose%C2%BF%20Navas%20Pe%C2%BFrez.report.pdf)
 
 # Meritos
 + Semifinalista de la National Cyberleague 2020
++ Miembro fundador de UCA Cibersecurity Day
