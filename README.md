@@ -13,7 +13,13 @@
 
 # Sobre mi
 
-Auditor Junior en Hispasec, Estudiante de Ingeniería Informatica y organizador de UCA Cybersecurity Day. Entusiasta de la ciberseguridad, jugador activo de CTFs miembro fundador del equipo Colors CTF (top 6 de España,CTF time 2020)y del equipo de CTF Flaggermeister. Dentro de mi equipo soy el encargado de  Pentesting, analisís forense y OSINT.
+Auditor Junior en Hispasec, Estudiante de Ingeniería Informatica y organizador de UCA Cybersecurity Day. Entusiasta de la ciberseguridad, jugador activo de CTFs miembro fundador del equipo Colors CTF (top 6 de España,CTF time 2020)y del equipo de CTF Flaggermeister. Dentro de mi equipo soy el encargado de Pentesting, analisís forense y OSINT.
+
+# Experiencia
+
+Enero de 2021 - Actualidad: Alumno colaborador del departamento de Ingeniería Informatica en la UCA
+Enero de 2021 - Actualidad: Auditor Junior en Hispasec
+
 
 # Formación
 ## eLearnSecurity
@@ -24,6 +30,7 @@ Auditor Junior en Hispasec, Estudiante de Ingeniería Informatica y organizador 
 + Unix Badge [Certificado](https://raw.githubusercontent.com/srbleu/Curriculum/main/Certificados/PentersterLab/PTLU8250.pdf)
 + Recon Badge [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/PentersterLab/PTLR0351.pdf)
 + Android badge [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/PentersterLab/PTLA0702.pdf)
++ PCAP Badge [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/PentersterLab/PTLP3387.pdf)
 
 ## Pentester Academy
 + Memory Forensics Basics [Badge](https://www.credential.net/82b2193d-0b57-44fd-ad27-5e414f5ec7cf)
@@ -63,7 +70,7 @@ Auditor Junior en Hispasec, Estudiante de Ingeniería Informatica y organizador 
 
 ## Tryhackme
 + Throwback (Attacking Windows Active Directory) [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/THM/THM-WR6AAZDPAU.png)
-
++ Pre Security Learning Path [Certficado](https://github.com/srbleu/Curriculum/blob/main/Certificados/THM/THM-FYZOZ9PO61.png)
 ## Div0
 + Div0 Carnival 1: Pentesting Badge [Certificado](https://github.com/srbleu/Curriculum/blob/main/Certificados/CTFs/Div0Pentesting.pdf) [Badge](https://www.credential.net/e44d1a4a-f3bf-4ab5-9fcd-22d215c366d2)
 
