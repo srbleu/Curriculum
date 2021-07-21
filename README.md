@@ -119,6 +119,10 @@ Enero de 2021 - Actualidad: Auditor Junior en Hispasec
 ## EDX
 + Fundamentos de la Ciberseguridad:Un enfoque práctico [Certificado](https://courses.edx.org/certificates/6c8025a36cc948d88ee46406f590c657) [Badge](https://api.badgr.io/public/assertions/eo266CnhQzWn7SIE3QeJbw?identity__email=pedro.navaspe%40alum.uca.es)
 
+## C1b3rWall Academy
++ Modulo 0 [Certificado]()
++ 
+
 ## Participación en CTFs o conferencias
 + Hacktober Participant [Badge](https://api.badgr.io/public/assertions/ZjVvCgnzRpOxfYBEvrJdYA?identity__email=pedro.navaspe%40alum.uca.es)
 + DEADFACE [Badge](https://api.badgr.io/public/assertions/RUMAOD9ISOCuWrKarob-Cg?identity__email=pedro.navaspe%40alum.uca.es)
@@ -134,4 +138,5 @@ Enero de 2021 - Actualidad: Auditor Junior en Hispasec
 
 # Meritos
 + Semifinalista de la National Cyberleague 2020
-+ Miembro fundador de UCA Cibersecurity Day
++ Miembro fundador del congreso de divulgación de la Seguridad Informatico: UCA Cibersecurity Day
++ Organizador de la primera edición del CTF de UCA Cibersecurity Day
