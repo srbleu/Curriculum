@@ -13,12 +13,12 @@
 
 # Sobre mi
 
-Auditor Junior en Hispasec, Estudiante de Ingeniería Informatica y organizador de UCA Cybersecurity Day. Entusiasta de la ciberseguridad, jugador activo de CTFs miembro fundador del equipo Colors CTF (top 6 de España,CTF time 2020)y del equipo de CTF Flaggermeister. Dentro de mi equipo soy el encargado de Pentesting, analisís forense y OSINT.
+Entusiasta de la ciberseguridad, jugador activo de CTFs miembro fundador del equipo Colors CTF (top 6 de España,CTF time 2020) y del equipo de CTF Flaggermeister. Dentro de mi equipo soy el encargado de Pentesting, analisís forense y OSINT.
 
 # Experiencia
 
-Enero de 2021 - Actualidad: Alumno colaborador del departamento de Ingeniería Informatica en la UCA
-Enero de 2021 - Actualidad: Auditor Junior en Hispasec
++ Enero de 2021 - Actualidad: Alumno colaborador del departamento de Ingeniería Informatica en la UCA
++ Enero de 2021 - Actualidad: Auditor Junior en Hispasec
 
 
 # Formación
